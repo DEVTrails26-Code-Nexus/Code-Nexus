@@ -4,7 +4,7 @@
 
 Developed for **Guidewire DEVTrails 2026** by Team **Code Nexus**.
 
-![Admin Dashboard](admin_dashboard/public/cover.png) *(Add a screenshot here later)*
+![Admin Dashboard] (admin_dashboard/public/cover.png) 
 
 Nexurance AI provides instant, claimless income protection for delivery and ride-hailing gig workers who lose earnings due to extreme weather, severe air quality drops, or localized civic disruptions.
 
